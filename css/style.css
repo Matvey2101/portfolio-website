@@ -1068,7 +1068,6 @@ html {
 /* ---------------- MEDIA 768 ---------------- */
 
 @media (max-width: 768px) {
-
   /* BURGER */
 
   .header__nav {
@@ -1418,7 +1417,9 @@ html {
   }
 
   .resume-button {
-    font-size: 18px;
+    white-space: normal;
+    line-height: 1;
+    text-align: center;
   }
 
   .resume-button {
