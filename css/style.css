@@ -1443,8 +1443,8 @@ html {
   }
 
   .project__preview {
-    width: 350px;
-    height: 375px;
+    max-width: 350px;
+    max-height: 375px;
   }
 
   .project__content {
@@ -1485,7 +1485,7 @@ html {
   }
 
   .project__preview {
-    width: 285px;
+    max-width: 285px;
   }
 
   .project__content {
